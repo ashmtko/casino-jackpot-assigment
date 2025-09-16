@@ -1,0 +1,16 @@
+dist
+node_modules
+.env
+*.log
+package-lock.json
+yarn.lock
+.vscode
+.DS_Store
+coverage
+npm-debug.log*
+yarn-error.log*
+pids
+*.pid
+*.seed
+*.pid.lock
+lib-cov
